@@ -1,7 +1,8 @@
 <h1>Kranti Yoga Tradition</h1>
 
- ![course2](https://github.com/KrantiYoga17/KrantiYoga17/assets/156518482/fd49a37d-565d-493c-ab48-e72b35afdb3f)
+
  Kranti Yoga is known for offering yoga teacher training courses and retreats in Goa, India. The school emphasizes a holistic approach to yoga, incorporating various styles such as Hatha, Vinyasa, and Ashtanga. While I don't have specific details about Kranti Yoga's unique tradition, yoga schools often have their own teaching philosophies and approaches. Here are some general aspects that may characterize the tradition or approach of Kranti Yoga:
+  ![course2](https://github.com/KrantiYoga17/KrantiYoga17/assets/156518482/fd49a37d-565d-493c-ab48-e72b35afdb3f)
 
 Holistic Yoga Philosophy: Kranti Yoga may focus on more than just physical postures (asanas) and include other aspects of yoga philosophy, such as ethical guidelines (yamas and niyamas), meditation, pranayama (breath control), and the study of yogic scriptures like the Yoga Sutras.
 
